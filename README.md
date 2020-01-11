@@ -39,4 +39,4 @@ Just run
 
 **MIT - Source code by [Lucas Hiago](https://lucashiago.com)**
 
-_Follow me 👋 **on codepen**_ → [![Twitter](https://image.flaticon.com/icons/svg/2111/2111351.svg)](https://codepen.io/dashboard?type=view&opts_itemType=pen&opts_filter=all&opts_orderBy=id&opts_orderDirection=0&opts_tag=0&displayType=grid&previewType=iframe&page=0)
+_Follow me 👋 **on codepen**_ → [![Twitter](https://image.flaticon.com/icons/svg/2111/2111351.svg)](https://codepen.io/lucashiagodsf)
